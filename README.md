@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Hive Front end
 
 This project implements native React functionality to create two types of dropdowns:
 - Multi-select
